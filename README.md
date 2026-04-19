@@ -20,5 +20,4 @@ Analyzed customer transaction data to identify spending patterns and trends.
 - CSV datasets
 - SQL queries
 - Dashboard reports (PDF)
-## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/...)
