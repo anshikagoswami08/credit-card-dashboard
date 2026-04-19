@@ -1,4 +1,4 @@
-# Credit Card Financial Dashboard
+<img width="1690" height="956" alt="dashboard-transactional" src="https://github.com/user-attachments/assets/9dc3e62a-c1c4-42da-978f-474d3787c38d" /># Credit Card Financial Dashboard
 
 ## Overview
 Analyzed customer transaction data to identify spending patterns and trends.
@@ -20,3 +20,5 @@ Analyzed customer transaction data to identify spending patterns and trends.
 - CSV datasets
 - SQL queries
 - Dashboard reports (PDF)
+## Dashboard Preview
+![Dashboard](dashboard-transactional.png)
