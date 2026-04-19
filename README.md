@@ -21,4 +21,4 @@ Analyzed customer transaction data to identify spending patterns and trends.
 - SQL queries
 - Dashboard reports (PDF)
 ## Dashboard Preview
-![Dashboard](dashboard-transactional.png)
+![Dashboard](dashboard.png)
